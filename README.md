@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/YehiaElrify1/AURA-iti-grad-project/main/web/icons/Icon-192.png" width="120" alt="AURA Logo">
-  <h1>✨ AURA ✨</h1>
+  <h1>AURA</h1>
   <p><strong>Discover the world's most popular people, powered by TMDB and Google Gemini AI.</strong></p>
 
   <p>
