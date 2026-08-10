@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>AURA needs access to your photo library to save high-resolution images of your favorite people directly to your device.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>AURA needs permission to save photos to your gallery.</string>
 </dict>
 </plist>
