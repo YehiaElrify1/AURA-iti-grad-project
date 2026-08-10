@@ -13,7 +13,7 @@
 
 <br/>
 
-## 📱 About AURA
+## About AURA
 
 **AURA** is a premium Flutter application designed as a graduation project for ITI. It provides a gorgeous, modern interface to browse, search, and discover the most popular people in the entertainment industry using the **TMDB (The Movie Database) API**. 
 
@@ -21,7 +21,7 @@ Going beyond a standard directory, AURA integrates a smart **AI Chatbot powered 
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 *   🔥 **Popular People Feed**: Browse trending and popular individuals seamlessly.
 *   🔍 **Smart Search**: Find actors and directors instantly with a debounced, premium search UI.
@@ -34,7 +34,7 @@ Going beyond a standard directory, AURA integrates a smart **AI Chatbot powered 
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 AURA is built with scale and maintainability in mind, strictly adhering to **Feature-First Architecture** and **Clean Code** principles.
 
@@ -49,7 +49,7 @@ AURA is built with scale and maintainability in mind, strictly adhering to **Fea
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 *   Flutter SDK (v3.12.2 or higher)
@@ -82,7 +82,7 @@ AURA is built with scale and maintainability in mind, strictly adhering to **Fea
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 lib/
@@ -105,7 +105,7 @@ lib/
 
 ---
 
-## 🤝 Acknowledgments
+## Acknowledgments
 *   Developed as a graduation project for the **Information Technology Institute (ITI)**.
 *   Data provided by [TMDB](https://www.themoviedb.org/).
 *   AI capabilities powered by Google DeepMind's Gemini.
