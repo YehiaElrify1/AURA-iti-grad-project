@@ -23,14 +23,14 @@ Going beyond a standard directory, AURA integrates a smart **AI Chatbot powered 
 
 ## Key Features
 
-*   🔥 **Popular People Feed**: Browse trending and popular individuals seamlessly.
-*   🔍 **Smart Search**: Find actors and directors instantly with a debounced, premium search UI.
-*   🎭 **Deep Profiles**: View comprehensive biographies, birthdates, popularity metrics, and their known works.
-*   🖼️ **High-Res Photo Gallery**: Browse high-quality images and directly save them to your device's native Gallery.
-*   ❤️ **Favorites System**: Save your favorite people locally for quick access anytime (persisted via SharedPreferences).
-*   🤖 **AURA AI Chat**: An intelligent, context-aware chatbot powered by the **Google Gemini API**.
-*   🌗 **Dynamic Theming**: Flawless Dark and Light mode support with glassmorphism and modern micro-animations.
-*   📱 **Responsive Design**: Built using `flutter_screenutil` to ensure perfect rendering across all device sizes.
+*   **Popular People Feed**: Browse trending and popular individuals seamlessly.
+*   **Smart Search**: Find actors and directors instantly with a debounced, premium search UI.
+*   **Deep Profiles**: View comprehensive biographies, birthdates, popularity metrics, and their known works.
+*   **High-Res Photo Gallery**: Browse high-quality images and directly save them to your device's native Gallery.
+*   **Favorites System**: Save your favorite people locally for quick access anytime (persisted via SharedPreferences).
+*   **AURA AI Chat**: An intelligent, context-aware chatbot powered by the **Google Gemini API**.
+*   **Dynamic Theming**: Flawless Dark and Light mode support with glassmorphism and modern micro-animations.
+*   **Responsive Design**: Built using `flutter_screenutil` to ensure perfect rendering across all device sizes.
 
 ---
 
