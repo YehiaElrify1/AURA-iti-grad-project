@@ -13,6 +13,15 @@
 
 <br/>
 
+## 🎥 App Demo
+<div align="center">
+  <a href="https://youtu.be/oOrGkUUvg4I">
+    <img src="https://img.youtube.com/vi/oOrGkUUvg4I/maxresdefault.jpg" alt="AURA App Demo" style="max-width: 100%; border-radius: 10px;">
+  </a>
+</div>
+
+---
+
 ## About AURA
 
 **AURA** is a premium Flutter application designed as a graduation project for ITI. It provides a gorgeous, modern interface to browse, search, and discover the most popular people in the entertainment industry using the **TMDB (The Movie Database) API**. 
