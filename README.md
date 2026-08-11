@@ -16,8 +16,9 @@
 ## 🎥 App Demo
 <div align="center">
   <a href="https://youtu.be/oOrGkUUvg4I">
-    <img src="https://img.youtube.com/vi/oOrGkUUvg4I/0.jpg" alt="Watch AURA App Demo on YouTube" width="600" style="border-radius: 10px;">
+    <img src="https://img.youtube.com/vi/oOrGkUUvg4I/0.jpg" alt="Watch AURA App Demo on YouTube" width="350" style="border-radius: 10px;">
   </a>
+  <p><em>Click on photo to see video</em></p>
 </div>
 
 ---
